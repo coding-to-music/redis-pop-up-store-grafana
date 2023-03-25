@@ -6,6 +6,8 @@ https://github.com/coding-to-music/redis-pop-up-store-grafana-docker-compose
 
 From / By https://github.com/ajeetraina/redis-pop-up-store
 
+https://redis.com/blog/3-real-life-apps-built-with-redis-data-source-for-grafana/
+
 https://github.com/ajeetraina/awesome-compose
 
 
